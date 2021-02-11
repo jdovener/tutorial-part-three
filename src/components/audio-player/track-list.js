@@ -11,7 +11,7 @@ export default function TrackList({ tracks }) {
             </Col>
             <Col xs={4}>Author</Col>
             <Col xs={1}>Length</Col>
-            <Col xs={1}>Link COLEMAN</Col>
+            <Col xs={1}>Link</Col>
         </Row>
         { tracks.map((track) => {
             return (
