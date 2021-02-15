@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/tutorial-part-three`,
+  pathPrefix: `/cv`,
   plugins: [
     `gatsby-plugin-sass`,
     {
