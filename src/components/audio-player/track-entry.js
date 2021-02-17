@@ -1,18 +1,13 @@
 import React from "react"
-import { Row, Col } from 'react-bootstrap';
-import Badge from 'react-bootstrap/Badge';
+import ReactPlayer from "react-player"
 
-
-export default function TrackEntry({ name, author, duration, badge, link }) {
+export default function TrackEntry({ url }) {
     return (
-        <Row className="track-entry">
-            <Col xs={6}>
-                { name }
-                { badge && <Badge pill variant="success">{ badge }</Badge> }
-            </Col>
-            <Col xs={4}>{ author }</Col>
-            <Col xs={1}>{ duration }</Col>
-            <Col xs={1}>{ link }</Col>
-        </Row>
+    <div>
+      <ReactPlayer
+        url={ url }
+        height="120px"
+      />
+    </div>
     )
 }

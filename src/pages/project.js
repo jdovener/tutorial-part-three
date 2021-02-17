@@ -5,37 +5,22 @@ import "../style/index.scss";
 
 const tracks=[
     {
-        name: 'Starline',
-        badge: 'Title',
-        author: 'Jimmy Dovener',
-        duration: '3:26',
-        link: ''
+        url: "https://soundcloud.com/starline_audio/starline"
     },
     {
-        name: 'Stability in Momentum',
-        author: 'Jimmy Dovener',
-        duration: '3:56'
+        url: "https://soundcloud.com/starline_audio/stability-in-momentum"
     },
     {
-        name: 'Fixed Point',
-        author: 'Jimmy Dovener',
-        duration: '4:55'
+        url: "https://soundcloud.com/starline_audio/fixed-point"
     },
     {
-        name: 'Peacement',
-        author: 'Jimmy Dovener',
-        duration: '3:35'
+        url: "https://soundcloud.com/starline_audio/peacement"
     },
     {
-        name: 'Companion',
-        author: 'Jimmy Dovener',
-        duration: '3:38'
+        url: "https://soundcloud.com/starline_audio/companion"
     },
     {
-        name: 'Continuum',
-        badge: 'New!',
-        author: 'Jimmy Dovener',
-        duration: '5:46'
+        url: "https://soundcloud.com/starline_audio/continuum"
     },
 ]
 
