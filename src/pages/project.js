@@ -27,6 +27,10 @@ const tracks=[
 export default function Project() {
     return (
         <Layout>
+            <h3>Starline</h3>
+            <p>A video game I am composing the music for, 
+                below are the currently available tracks
+            </p>
             <TrackList tracks={tracks}/>
         </Layout>
     )
