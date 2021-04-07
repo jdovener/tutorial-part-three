@@ -16,7 +16,10 @@ export default function Home() {
       <br></br>
       I've been experimenting with deploying 
       static websites to Github Pages using Github Actions as a 
-      deployment pipeline
+      deployment pipeline.
+      <br></br>
+      <br></br>
+      Please view the Projects page to view my recent work.
       <br></br>
       <br></br>
       Much more to come!
