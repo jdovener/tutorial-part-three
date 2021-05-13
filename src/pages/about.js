@@ -11,17 +11,17 @@ export default function About() {
       <br></br>
       <br></br>
       <p2>
-        Currently located in Preston, I work as an Operations Administrator for an energy company and fill my spare time with multiferous hobbies and studies.
+        Currently living in Preston, I aspire to become a Web Developer located in a nearby city. 
+        I am currently applying for entry level jobs and engaging in self-lead programming studies in the meantime.
       </p2>
       <br></br>
       <br></br>
-      <p2>
-        My freelance work includes: Composing music for games, various live music performances and selling art that I create.
-      </p2>
+        My recent programming studies include experimenting with creating static websites in React 
+        and deploying them to Github Pages, using Github Actions as a deployment pipeline.
       <br></br>
       <br></br>
       <p2>
-        My hobbies include: Languages, Programming, Music, Health & Fitness and Reading.
+        My hobbies include: Languages, Programming, Health & Fitness, Music and Reading.
       </p2>
     </Layout>
   )

@@ -14,11 +14,6 @@ export default function Home() {
       Welcome to my new website! 
       <br></br>
       <br></br>
-      I've been experimenting with deploying 
-      static websites to Github Pages using Github Actions as a 
-      deployment pipeline.
-      <br></br>
-      <br></br>
       Please view the Projects page to view my recent work.
       <br></br>
       <br></br>
