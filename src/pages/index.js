@@ -10,6 +10,7 @@ export default function Home() {
         Web Development Portfolio
       </p>
       <br></br>
+      <br></br>
       <p>
       Welcome to my new website! 
       <br></br>

@@ -12,12 +12,17 @@ export default function About() {
       <br></br>
       <p2>
         Currently living in Preston, I aspire to become a Web Developer located in a nearby city. 
-        I am currently applying for entry level jobs and engaging in self-lead programming studies in the meantime.
+        I am applying for entry-level jobs and engaging in self-lead programming studies in the meantime.
       </p2>
       <br></br>
       <br></br>
         My recent programming studies include experimenting with creating static websites in React 
         and deploying them to Github Pages, using Github Actions as a deployment pipeline.
+      <br></br>
+      <br></br>
+      <p2>
+        I have experience working with HTML, CSS, Javascript, React, Python and Git. My main focus is on React.js.
+      </p2>
       <br></br>
       <br></br>
       <p2>
